@@ -1,1 +1,1 @@
-![Screenshot](images/Screenshot 2025-07-08 214016.png)
+![Screenshot](images/Screenshot_2025-07-08_214016.png)
